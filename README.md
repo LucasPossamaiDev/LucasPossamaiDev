@@ -7,8 +7,8 @@ Estou construindo minha carreira no desenvolvimento back-end, com foco em APIs R
 ---
 
 <div align="center">
-  <img height="180em" src="https://readme-stats-mu-nine.vercel.app/api?username=LucasPossamaiDev&show_icons=true&theme=tokyonight&title_color=00bfff&icon_color=00bfff"/>
-  <img height="180em" src="https://readme-stats-mu-nine.vercel.app/api/top-langs/?username=LucasPossamaiDev&layout=compact&theme=tokyonight&title_color=00bfff"/>
+  <img height="180em" src="https://readme-stats-mu-nine.vercel.app/api?username=LucasPossamaiDev&show_icons=true&theme=tokyonight&title_color=00bfff&icon_color=00bfff&border_color=00bfff"/>
+  <img height="180em" src="https://readme-stats-mu-nine.vercel.app/api/top-langs/?username=LucasPossamaiDev&layout=compact&theme=tokyonight&title_color=00bfff&border_color=00bfff"/>
 </div>
 
 <div align="center">
