@@ -6,6 +6,10 @@ Estou construindo minha carreira no desenvolvimento back-end, com foco em APIs R
 
 ---
 
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasPossamaiDev&show_icons=true&theme=tokyonight&title_color=00bfff&icon_color=00bfff)
+
+---
+
 ## 🚀 Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
