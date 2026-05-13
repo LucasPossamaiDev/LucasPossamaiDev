@@ -6,7 +6,11 @@ Estou construindo minha carreira no desenvolvimento back-end, com foco em APIs R
 
 ---
 
-![Lucas's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasPossamaiDev&show_icons=true&theme=tokyonight&title_color=00bfff&icon_color=00bfff)
+<div>
+  <a href="https://beacons.ai/LucasPossamaiDev">
+    <img height="180em" src="https://github-readme-status.vercel.app/api?username=LucasPossamaiDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=LucasPossamaiDev&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 ---
 
 ## 🚀 Tecnologias
