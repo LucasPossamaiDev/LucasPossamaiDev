@@ -1,7 +1,5 @@
 # Olá, eu sou o Lucas Possamai 
 
-**Engenharia de Software em formação | Desenvolvedor Back-End**
-
 Estou construindo minha carreira no desenvolvimento back-end, com foco em APIs REST, banco de dados e boas práticas de programação. Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior.
 
 ---
