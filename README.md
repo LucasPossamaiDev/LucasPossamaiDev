@@ -7,9 +7,10 @@ Estou construindo minha carreira no desenvolvimento back-end, com foco em APIs R
 ---
 
 <div>
-  <a href="https://beacons.ai/LucasSouza">
-    <img height="180em" src="https://github-readme-status.vercel.app/api?username=LucasPossamaiDev&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=LucasPossamaiDev&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/LucasPossamaiDev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPossamaiDev&show_icons=true&theme=tokyonight&title_color=00bfff&icon_color=00bfff"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPossamaiDev&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </div>
 ---
 
