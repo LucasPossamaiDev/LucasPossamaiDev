@@ -15,13 +15,19 @@ Estou construindo minha carreira no desenvolvimento back-end, com foco em APIs R
 
 ---
 
+
 <div align="center">
+  
+*TECH SKILLS*
+  
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github&theme=dark" />
 </div>
 
 ---
 
 <div align="center">
+
+*CONTATOS*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-possamai-de-souza-3244722b6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspossamaidev@gmail.com)
